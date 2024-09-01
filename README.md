@@ -47,10 +47,6 @@ HTTP: Used for making network requests to the Movies API.
 
 JSON Serialization: Parsing and serializing JSON data fetched from the API.
 
-Unit Testing: Ensuring the reliability and stability of the app with well-structured unit tests.
-
-
-CI/CD with GitHub Actions: Automated testing and deployment pipeline for continuous integration and continuous deployment.
 
 
 📁 Project Structure
